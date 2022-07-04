@@ -1,0 +1,11 @@
+comando usados no Git e Github
+
+git init (inicia)
+
+git add* (adiciona)
+
+git status (ver)
+
+git commit -m "" (comita)
+
+git push origin master (enviar)
